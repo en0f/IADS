@@ -1,5 +1,6 @@
 # IADS
 Internal Application Discovery Service
+
 Written by en0f
 
 This application creates a simple GUI with a text entry field for the subnet, a "Scan" button, and a text area to display the results. When the "Scan" button is clicked, the run_scan method is called, which validates the input subnet and starts a new thread to run the scan_subnet method.
